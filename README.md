@@ -1,2 +1,1 @@
-# lonely-express
-Development for webcomic using HTML5 Boilerplate and Rarebit templates
+# Interactive Sound Spring 23
